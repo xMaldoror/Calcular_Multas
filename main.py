@@ -1,7 +1,8 @@
-#Intro
+#Front_end_1.1
 print("Bem vindo ao Calculador de Multas\n")
 
-#Conceitos operativos
+#Conceitos operativos 
+#Front_end_1.2
 while True:    
     try:
         velocidade = float(input("A que velocidade circulava: "))
@@ -33,7 +34,7 @@ def autoestrada():
         print("\n-->A sua  multa será de 360€<--")
     
 
-#Front_end
+#Front_end_2
 while True:
     print("\nOnde circulava o veiculo?")
     print("Escolha uma opção:")
